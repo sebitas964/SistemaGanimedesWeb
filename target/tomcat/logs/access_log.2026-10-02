@@ -1,0 +1,3 @@
+0:0:0:0:0:0:0:1 - - [02/Oct/2026:21:35:33 -0500] "GET /SistemaGanimedesWeb/ HTTP/1.1" 200 2166 http-bio-8080-exec-1 750
+0:0:0:0:0:0:0:1 - - [02/Oct/2026:21:35:54 -0500] "GET /favicon.ico HTTP/1.1" 404 - http-bio-8080-exec-3 0
+0:0:0:0:0:0:0:1 - - [02/Oct/2026:21:42:52 -0500] "POST /SistemaGanimedesWeb/AdmisionServlet HTTP/1.1" 200 813 http-bio-8080-exec-5 9
